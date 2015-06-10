@@ -1,1 +1,3 @@
-# myproject-signupmail
+# Signup mailtemplate
+
+The signup mailtemplate for Cosy Care.
